@@ -1,0 +1,30 @@
+{
+  "name": "non-4byte-chars-regex",
+  "description": "Regular expression which matches a string with no 4-byte characters",
+  "keywords": [
+    "regular-expression",
+    "regex",
+    "regexp",
+    "4-byte",
+    "emoji",
+    "match",
+    "unicode"
+  ],
+  "main": "module.js",
+  "moduleType": "es6",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/shinnn/non-4byte-chars-regex.git"
+  },
+  "authors": [
+    "Shinnosuke Watanabe (https://github.com/shinnn)"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "*.js",
+    "*.json",
+    "*.yml",
+    "node_modules"
+  ]
+}
